@@ -6,3 +6,9 @@ Index de Projeto dos Alunos
 aaaaaaaaaa
 
 [Link](https://google.com.br)
+
+## Projeto Aluno Pedro Varanda
+
+- Um bot não-profissional do meu servidor do discord!
+
+<quando tiver o link do .md adiciono>
