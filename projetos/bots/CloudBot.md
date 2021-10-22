@@ -37,3 +37,4 @@
   
 # OBS:
    Pedro Varanda foi banido temporariamente do Twitter - O Editor
+   Pedro Varanda criará comandos para servidores expecíficos ao longo do tempo - O Editor
