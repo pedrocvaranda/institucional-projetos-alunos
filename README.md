@@ -1,8 +1,8 @@
 # index-projetos-alunos
 Index de Projeto dos Alunos
 
-## Projeto Aluno A
+## Projeto Aluno Pedro Varanda
 
-aaaaaaaaaa
+- Um bot não-profissional do meu servidor do discord!
 
-[Link](https://google.com.br)
+<quando tiver o link do .md adiciono>
