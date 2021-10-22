@@ -5,4 +5,4 @@ Index de Projeto dos Alunos
 
 - Um bot não-profissional do meu servidor do discord!
 
-<quando tiver o link do .md adiciono>
+[Leia Mais](/projetos/bots/CloudBot.md)
