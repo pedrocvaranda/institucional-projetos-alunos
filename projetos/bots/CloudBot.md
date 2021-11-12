@@ -34,3 +34,6 @@
       
 # Ajude!
    Para ajudar entre em contato comigo no meu [**Twitter!**](https://twitter.com/pedrocvaranda) Vou avaliar sua sugestão e informarei a minha opinião final.
+
+# OBS:
+   Atualmente, estou banido do [**Twitter**](https://help.twitter.com/) por período indeterminado.
