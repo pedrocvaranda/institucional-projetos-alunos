@@ -5,6 +5,8 @@
    
    - Link para adicionar o Bot: [Adicionar ao Discord](https://discord.com/api/oauth2/authorize?client_id=775822211972857887&permissions=8&scope=bot).
 
+   - Código Fonte do Bot: [Acesse](https://github.com/pedrocvaranda/CloudBot)
+
 # Lista de Comandos
       c!antiraid | antispam {on/off} (Ativa o modo de antiraid nos canais)
 
