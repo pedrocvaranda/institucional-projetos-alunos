@@ -1,9 +1,11 @@
 # ☁ CloudBot
    - Um bot não-profissional (bem parecido com a Lorrita) do meu servidor do discord.
    
-   - Feito por [Pedro Varanda](https://twitter.com/pedrocvaranda).
+   - Feito por [Pedro Varanda](https://twitter.com/pcvaranda).
    
    - Link para adicionar o Bot: [Adicionar ao Discord](https://discord.com/api/oauth2/authorize?client_id=775822211972857887&permissions=8&scope=bot).
+
+   - Código Fonte do Bot: [Acesse](https://github.com/pedrocvaranda/CloudBot)
 
 # Lista de Comandos
       c!antiraid | antispam {on/off} (Ativa o modo de antiraid nos canais)
@@ -38,3 +40,4 @@
 # OBS:
    Pedro Varanda foi banido temporariamente do Twitter - O Editor
    Pedro Varanda criará comandos para servidores expecíficos ao longo do tempo - O Editor
+
