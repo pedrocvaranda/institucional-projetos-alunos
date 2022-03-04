@@ -1,7 +1,7 @@
 # ☁ CloudBot
    - Um bot não-profissional (bem parecido com a Lorrita) do meu servidor do discord.
    
-   - Feito por [Pedro Varanda](https://twitter.com/pedrocvaranda).
+   - Feito por [Pedro Varanda](https://twitter.com/pcvaranda).
    
    - Link para adicionar o Bot: [Adicionar ao Discord](https://discord.com/api/oauth2/authorize?client_id=775822211972857887&permissions=8&scope=bot).
 
@@ -35,4 +35,4 @@
       c!uptime (Mostra o tempo ativo)
       
 # Ajude!
-   Para ajudar entre em contato comigo no meu [**Twitter!**](https://twitter.com/pedrocvaranda) Vou avaliar sua sugestão e informarei a minha opinião final.
+   Para ajudar entre em contato comigo no meu [**Twitter!**](https://twitter.com/pcvaranda) Vou avaliar sua sugestão e informarei a minha opinião final.
